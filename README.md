@@ -1,1 +1,1 @@
-# cyber-guardian-phishing-detector
+# Cyber Guardian
