@@ -20,6 +20,6 @@ A full-stack machine learning solution for real-time phishing detection, using l
    ```bash
    pip install -r requirements.txt
    uvicorn main:app --reload
-3.In another terminal, run frontend:
-  npm install
-  npm start
+3. In another terminal, run frontend:
+   npm install
+   npm start
