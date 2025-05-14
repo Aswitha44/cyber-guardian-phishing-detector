@@ -24,3 +24,8 @@ A full-stack machine learning solution for real-time phishing detection, using l
    ```
    npm install
    npm start
+## Output Images
+![image](https://github.com/user-attachments/assets/5d4506bf-204b-4f41-bdfd-782d11ae5684)
+![image](https://github.com/user-attachments/assets/9c55c6f7-4a30-4cb9-867b-c6e2faa517ef)
+
+
